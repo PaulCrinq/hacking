@@ -1,0 +1,9 @@
+[autorun]
+
+
+; ICONE DE L'UNITE
+icon=DD.ico
+
+; PROGRAMME A EXECUTER AUTOMATIQUEMENT
+open=launch.bat
+
